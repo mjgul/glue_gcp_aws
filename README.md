@@ -35,7 +35,3 @@ This project demonstrates a hybrid cloud architecture using AWS and GCP to host 
 3. **Deploy Website**:
    - The `deploy-site.yml` workflow handles this on push to main.
    - Or manually: `gsutil -m rsync -r app/client gs://YOUR_BUCKET_NAME`
-
-## Blog Post
-
-[Link to your blog post describing the project]
